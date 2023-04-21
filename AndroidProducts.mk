@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_instantnoodle.mk
+    $(LOCAL_DIR)/lmodroid_instantnoodle.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_instantnoodle-user \
-    lineage_instantnoodle-userdebug \
-    lineage_instantnoodle-eng
+    lmodroid_instantnoodle-user \
+    lmodroid_instantnoodle-userdebug \
+    lmodroid_instantnoodle-eng
