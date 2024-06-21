@@ -6,8 +6,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lmodroid_instantnoodle.mk
-
-COMMON_LUNCH_CHOICES := \
-    lmodroid_instantnoodle-user \
-    lmodroid_instantnoodle-userdebug \
-    lmodroid_instantnoodle-eng
