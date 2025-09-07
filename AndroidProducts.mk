@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_instantnoodle.mk
+    $(LOCAL_DIR)/lmodroid_instantnoodle.mk
